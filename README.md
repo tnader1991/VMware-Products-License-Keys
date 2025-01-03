@@ -1,6 +1,8 @@
-# Note: Below keys are for Personal & lab testing use only; not commerical / Production use. I'm not legally responsible for what you do with it.
-# VMware Products License Keys
+	Note: 
+Below keys are for Personal & lab testing use only; not commercial / Production use. I'm not legally responsible for what you do with it.
 
+# VMware Products License Keys
+#VMware Workstation 17
 #VMware Workstation 14
 #vSphere 6.x Ent. Plus
 #vCloud Suite 6 Ent.
