@@ -5,9 +5,9 @@ Below keys are for Personal & lab testing use only; not commercial / Production 
 
 1.	VMware Workstation 17
 2.	VMware Workstation 14
-3.	vSphere 6.x Ent. Plus
+3.	vSphere 6.x, 7.x, 8.x Ent. Plus
 4.	vCloud Suite 6 Ent.
-5.	vCenter 6.x STD
+5.	vCenter 6.x, 7.x, 8.x STD
 6.	NSX vSphere 6.4.x:
 7.	VMware vRealize Log Insight 4.x
 8.	vROPs Enterprise Plus 7.x
